@@ -1,15 +1,15 @@
 # A-B-Testing-Coupon-Campaign
 The following outlines the **purpose of the data analysis**, an **explanation of the data**, key **methodologies**, and **business results**. A visualization of the results is published in **Tableau**. 
 
-**Business Problem**
+# **Business Problem**
 The company is an online retailer specializing in handmade items. While key engagement metrics—such as time spent on the website and referral rates—are strong, only **13% of visitors  ultimately make a purchase**.
 
-To encourage transactions, the company plans to send **discounted coupons** to registered users who have not made a purchase in the last two months. Before implementing this strategy, the data science team will conduct an A/B test to measure whether offering coupons leads to a significant increase in sales.
+To encourage transactions, the company plans to send **discounted coupons** to registered users who have not made a purchase in the last two months. To test usefulness of this strategy, we conducted an A/B test by offering 20% discounted coupons on next purchase to 5000 users have not made purchase in the last two months. The coupon was valid for a month.
 
-**Business Goal**
-While increased number of user is crucial for sizing up the company, the company's primary goal is to **increase total revenue** (key metric). This project will analyze data from the A/B test to assess both the **causal impact** of the coupon campaign on purchasing behavior and its overall **monetization effect** on sales.
+# **Business Goal**
+The company's primary goal is to **increase total revenue** (key metric). This project will analyze data from the A/B test to assess both the **causal impact** of the coupon campaign on purchasing behavior and its overall **monetization effect** on sales.
 
-**Dataset** 
+# **Dataset** 
 
 The dataset contains the following variables relevant to customer behavior and monetary metrics (transaction and revenue).
 
