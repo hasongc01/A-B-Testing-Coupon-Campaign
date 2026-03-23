@@ -1,5 +1,5 @@
 # A-B-Testing-Coupon-Campaign
-The following outlines the **purpose of the data analysis**, an **explanation of the data**, key **methodologies**, and **business results**. A visualization of the results is published in **Tableau**. 
+The following outlines the **purpose of the data analysis**, an **explanation of the data**, key **methodologies**, and **business results**.
 
 # **Business Problem**
 The company is an online retailer specializing in handmade items. While key engagement metrics—such as time spent on the website and referral rates—are strong, only **13% of visitors  ultimately make a purchase**.
